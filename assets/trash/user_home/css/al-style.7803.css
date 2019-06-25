@@ -1,0 +1,208 @@
+body > iframe{display:none;font-family: 'Open Sans', sans-serif;}
+
+.al-contain .mylesContaniner{width:auto;}
+
+.al-mr{margin-top:80px;}
+.al-col-hom .homeBookL,
+.al-col-hom .homeBookR{width:100%; margin-top:22%;}
+.col-choose{padding:0 40px;}
+.al-contain .mylesContaniner .col-sm-4.col-chos-al > .col-choose{padding-left:0;}
+.al-contain .col-sm-4:last-child > .col-choose{padding-right:0;}
+
+.col-choose .choose1{width:100%;}
+
+.mobile-al .thMobileL,
+.mobile-al .thMobileR{width:100%;}
+
+.mobile-al .w_40,
+.mobile-al .w_60{width:100%;}
+
+.mar-top{margin-top:5%;}
+.thMobileL .table-responsive{border:0px;}
+.al-foot .hFooterL,
+.al-foot .hFooterR,
+.al-foot .w_33{width:100%;}
+.al-foot ul{margin-left:0;}
+.main-menu ul.nav{width:auto; font-size:14px;  background:transparent none repeat scroll 0 0;}
+.main-menu .headdRight{width:100%;}
+.main-menu ul.nav li{margin:0;}
+/*.J_fixNavbar .main-menu ul.nav.navbar-nav li a{color:#333 !important;}*/
+.main-menu ul.nav.navbar-nav li a{color:#fff; padding-bottom:5px; padding-top:5px; text-transform:uppercase;}
+.main-menu ul.nav li a:hover, .main-menu ul.nav li a:focus{background:transparent none repeat scroll 0 0; color:#e04627;}
+.navbar-toggle .icon-bar{background:#fff;}
+button.navbar-toggle{width:auto; margin-right:0px; padding-left:0; float:left; margin-top:0;}
+.main-menu ul.nav.navbar-nav li a:last-child{padding-right:2px;}
+img.H_Logo1,
+img.H_Logo2
+{margin:7px 0;}
+
+.car-al{margin-bottom:15px;}
+.pickLocation{width:92%;}
+
+
+/*-- search reasult--*/
+
+.al-serch .searchCL1,
+.al-serch .searchCL2,
+.al-serch .searchCL3{width:100%; padding:0;}
+md-autocomplete{min-width:100%;}
+.al-filtr .filterCol{width:auto;}
+.car-al .car{width:auto; margin-right:0; float:none;}
+.al-contain .searchPage #sortingdiv{margin-left:0;}
+.short{float:right;}
+
+.J_fixNavbar .container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.result-bnr div img{width:100%;}
+
+
+
+
+
+
+
+/*-- booking reasult--*/
+
+
+
+
+.num-big{display:none;}
+.al-book .dDetails_left,
+.al-book .dDetails_right{width:auto; margin-right:0px;}
+.bk-l{padding-left:5px;}
+.bk-r{padding-right:5px;}
+.bk-frm .formL{width:auto;}
+.al-menu .icons,
+.al-menu .afterLogin{float:right;}
+.al-menu ul.afterLogin li:last-child{padding-right:5px;}
+.al-menu .top_menu{float:right;}
+.al-menu .top_menu li a{text-transform:uppercase; font-family: 'Open Sans', sans-serif;}
+.icon-al, .al-clz{font-size: 100%; font-family: 'Glyphicons Halflings'!important;}
+.f-ryt{float:none; text-align:right;}
+.lline{display:none;}
+.al-toggle:hover, .al-toggle:focus{background:transparent; border:none;}
+.al-toggle .icon-bar{background:#E04627;}
+
+.al-navv.nav>li>a{color:#8E8A8A !important; padding:10px 15px;}
+.al-navv.nav>li>a:hover{color:#E04627 !important;}
+
+.main-menu .al-menuu{width:auto;}
+
+
+
+
+
+
+
+.al-thnk .thanks_left{width:auto; margin-right:0; background:#fff; float:none;}
+.al-thnk .thanks_right{width:auto; float:none;}
+.al-contain .thanks{background:none; border:0px; box-shadow:none;}
+.al-contain .thanks_right .driverDetailsMain{right:auto; top:auto;}
+.al-thnk .dDetails_right.thanksML{width:auto; margin-left:0; float:none;}
+.al-thnk .thanksEffect{bottom:-15px;}
+
+
+
+.nav-fixed {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+	z-index:999;
+	background:#fff;
+}
+.nav-fixed .navbar-toggle .icon-bar{ background:#E04627;}
+.nav-fixed .navbar-toggle .al-clz{color:#E04627;     font-size: 22px;}
+.nav-fixed .main-menu ul.nav.navbar-nav li a{color:#222;}
+.nav-fixed .main-menu ul.nav.navbar-nav li a:hover{color:#e04627 !important;}
+.al-clz{font-size: 22px;}
+
+
+.main-menu ul.nav li { cursor:inherit;}
+
+ .al-filtr .filter1, .al-filtr .filter2{width:100% !important; float:none;}
+.al-procee .pickDroupBT{margin-right:13px;}
+
+.main-menu ul.nav.navbar-nav li a{font-size:13px; padding:0 }
+.main-menu ul.nav li{padding:4px 15px;}
+.main-menu ul.nav li:nth-last-child(2){padding-right:0;}
+.J_fixNavbar {
+    height: 70px;
+    
+}
+
+.al-col-hom .rentDrive h2{color: #878787;}
+input[type=checkbox] + label:before{top: 0px;}
+input[type=checkbox] + label.mylesP:before{    top: 5px;}
+#tabs{margin-left:0;}
+.k-containnr .mylesContaniner{width:100%;}
+
+.al-thnk .detailsCm{margin-top:0;}
+.mVerify.signupForm.ng-valid.ng-dirty.ng-valid-parse .formDetails .forgot input[type=checkbox] + label:before { top: 8px !important;}
+
+.tooltip {
+    left: 130px;
+}
+a.modify{text-transform:capitalize;}
+.copyright{margin-top:25px; padding: 6px 0;}
+/*.footerBg{top:auto;}*/
+.storiedMedia{margin-top:10px;}
+/*.fb_reset, #fb-root{margin-top:-40px !important;}*/
+@-moz-document url-prefix() {
+ .filter_bg .al-filtr{padding:5px;}
+ .filter_bg .al-filtr .filter2{padding:7px;}
+ 
+  }
+
+
+  
+
+/*--mobile header start--*/
+@media (max-width:767px){  
+    .MobileHeaderNew { position: fixed;left: 0; right: 0; top:0; height:55px; z-index: 1000; background: #fff; padding: 5px 0px 5px 0px;  }
+    .MobileHeaderNew .MobileLogo { width: 110px !important; margin-left: 40px; padding: 6px 0px; }
+    .MobileHeaderNew .LoginIcon {display: block; text-align: right; vertical-align: middle; padding: 13px 20px 13px 0px;}
+    .MobileHeaderNew .LoginIcon li a { display: inline-block;
+        background: url(../images/loginIcon.png) no-repeat 0px 0px;
+        width: 9px;
+        height: 12px;
+    }
+    .flm25 { margin-top: 30px; }
+    .menuButton { position: absolute; left:20px; top: 0px; }
+    .navbar-toggle .al-clz { color:#e04627 !important;  }
+    .Mobilemain-menu .headdRight {background-color: #e04627;color: #e04627;margin: 10px 0px 0px 0px;}
+    .Mobilemain-menu .headdRight ul.top_menu{position: static;top: 0px;padding-right: 5px;padding-top:0px;}
+    .Mobilemain-menu .headdRight .top_menu li.HSign{border-right: none!important;}
+    .Mobilemain-menu .headdRight ul.top_menu li a { color: #e04627 !important; font-size: 13px; }
+    .Mobilemain-menu .headdRight .top_menu li.HSign span {
+    display: inline-block;
+    background: url(../images/home_signin.png) no-repeat -10px 0px;}
+    .Mobilemain-menu .top_menu li .numb { display: inline-block; }
+
+.modal-header .close {
+    margin-top: -2px;
+    margin-right: 8px;
+}
+.modal { overflow: auto; }
+.navbar-head { color:#e04627 !important; }
+.Mobilemain-menu .top_menu li i { display: inline-block; }
+.Mobilemain-menu .top_menu li kbd { display: none; }
+.Mobilemain-menu .navbar-nav>li>a { color: #fff; border-bottom: 1px solid #fff; }
+.Mobilemain-menu .navbar-nav>li>a:hover {
+    color: #333 !important;
+    background: #fff;
+}
+.Mobilemain-menu .navbar-nav { margin-top: 0px; margin-bottom: 0px; }
+
+
+}
+@media  (max-width:380px){
+     .al-col-hom .homeBookR{margin-top:20px!important;}
+
+    .Mobilemain-menu .top_menu li .numb { display: none; }
+}
+/*--mobile header end--*/
+
+.footercontact .mylesContaniner.marginTopp2 { margin-top: 0px!important; }
